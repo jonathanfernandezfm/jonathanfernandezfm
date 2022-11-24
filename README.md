@@ -9,7 +9,7 @@ I'm **Jonathan Fernández Mertanen**, a **Middle Full-Stack Developer** and a **
 
 ### About me:
 
-- 💻 I’m a Middle Full-Stack Developer at The Cloud Gate S.L working on Java API, Angular, Google Cloud Platform and Google/Microsoft APIs
+- 💻 I’m a Middle Full-Stack Developer at Efecte working on Java & Angular
 - 🧠 I’m learning about new web technologies and UX/UI
 - 💼 I really like Full-Stack technologies and I'm constantly looking for new challenges
 - 👾 ♥ Gaming / Motor
