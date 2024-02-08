@@ -1,18 +1,21 @@
 ### Hi there 👋!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanfernandezfm)
+[![Fiverr Badge](https://img.shields.io/badge/-Fiverr-02751f?style=flat-square&logo=fiverr&logoColor=green)](https://www.jonathanfernandezfm.com)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.jonathanfernandezfm.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JonathanFdezM)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jonathanfdez_poak/)
 
-I'm **Jonathan Fernández Mertanen**, a **Middle Full-Stack Developer** and a **Information Systems Engineer** from Malaga/Granada Spain :es:.
+This is **Jonathan Fernández Mertanen**, **Full-Stack Developer** and **Information Systems Engineer** from Málaga/Granada, Spain :es:.
+Currently living in Kuopio, Finland 🇫🇮 and working at [Efecte](https://www.efecte.com/)
 
 ### About me:
 
-- 💻 I’m a Middle Full-Stack Developer at Efecte working on Java & Angular
-- 🧠 I’m learning about new web technologies and UX/UI
-- 💼 I really like Full-Stack technologies and I'm constantly looking for new challenges
+- 💻 Current work: Full-Stack Developer working on Java & Angular
+- 🧠 Learning about new web technologies and UX/UI
+- 💼 Looking for new challenges, freelancing or fun projects
 - 👾 ♥ Gaming / Motor
+- 🤖 Discord BOT Developer
 
 ### Languages and Tools:
 
@@ -32,6 +35,12 @@ I'm **Jonathan Fernández Mertanen**, a **Middle Full-Stack Developer** and a **
 
 ### Projects
 [Bedroom Radio](https://bedroomradio.es/)
+
+[AmaiTakahashi Portfolio](https://amaitakahashi.com/)
+
+[My website](https://jonathanfernandezfm.com/)
+
+More -> [Github](https://github.com/jonathanfernandezfm/)
 
 ### GitHub stats:
 
