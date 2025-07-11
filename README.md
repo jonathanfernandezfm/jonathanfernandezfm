@@ -1,6 +1,6 @@
 <!-- Banner / Hero section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=150&section=header&text=Hi,%20I'm%20Jonathan%20Fernández%20Mertanen!&font=Fira+Code&fontColor=ffffff&fontSize=32&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=150&section=header&text=Welcome!&font=Fira+Code&fontColor=ffffff&fontSize=48&fontAlignY=55&animation=fadeIn&desc=>>>&descAlignY=68" />
 </div>
 
 <div align="center">
