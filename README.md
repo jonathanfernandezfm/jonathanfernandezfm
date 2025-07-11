@@ -1,47 +1,73 @@
-### Hi there 👋!
+<!-- Banner / Hero section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=150&section=header&text=Hi,%20I'm%20Jonathan%20Fernández%20Mertanen!&font=Fira+Code&fontColor=ffffff&fontSize=32&fontAlignY=35" />
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanfernandezfm)
-[![Fiverr Badge](https://img.shields.io/badge/-Fiverr-02751f?style=flat-square&logo=fiverr&logoColor=green)](https://www.jonathanfernandezfm.com)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.jonathanfernandezfm.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JonathanFdezM)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jonathanfdez_poak/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/jonathanfernandezfm"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.jonathanfernandezfm.com"><img alt="Website" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/jonathanfernandezfm"><img alt="Fiverr" src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
+  <a href="https://twitter.com/JonathanFdezM"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jonathanfdez_poak/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
 
-This is **Jonathan Fernández Mertanen**, **Full-Stack Developer** and **Information Systems Engineer** from Málaga/Granada, Spain :es:.
-Currently living in Kuopio, Finland 🇫🇮 and working at [Efecte](https://www.efecte.com/)
+---
 
-### About me:
+### 👨‍💻 About Me
 
-- 💻 Current work: Full-Stack Developer working on Java & Angular
-- 🧠 Learning about new web technologies and UX/UI
-- 💼 Looking for new challenges, freelancing or fun projects
-- 👾 ♥ Gaming / Motor
-- 🤖 Discord BOT Developer
+Hey there! I'm **Jonathan Fernández Mertanen**, a passionate **Full-Stack Developer** and **Software Engineer** originally from Spain 🇪🇸.  
+Currently based in Kuopio, Finland 🇫🇮, working at [Matrix42](https://www.matrix42.com/).
 
-### Languages and Tools:
+- 🛠 **Stack**: Java, Angular, NextJS, React, Node.js, and whatever new UI framework just came out yesterday 😉
+- 💡 Currently exploring: **UX/UI**, **Blockchain**, and **AI**
+- 🌐 Freelancing and open to fun & impactful side projects
+- 🕹 Love for gaming, motorsports, and building **Discord bots**
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-<code><a href="https://aws.amazon.com"><img height="20" src="https://www.google.com/s2/favicons?domain=aws.amazon.com"></a></code>
-<code><a href="https://git-scm.com"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
+---
 
-### Projects
-[Bedroom Radio](https://bedroomradio.es/)
+### 🧰 Skills
 
-[AmaiTakahashi Portfolio](https://amaitakahashi.com/)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,nestjs,react,nextjs,angular,postgresql,mongodb,github,docker,aws,gcp,vscode&theme=light" />
+</div>
 
-[My website](https://jonathanfernandezfm.com/)
+---
 
-More -> [Github](https://github.com/jonathanfernandezfm/)
+### 📌 Featured Projects
 
-### GitHub stats:
+- 🎵 [Bedroom Radio](bedroom-radio.vercel.app/) – A digital radio streaming project
+- 🖌 [AmaiTakahashi Portfolio](https://amaitakahashi.com/) – Custom portfolio design & dev
+- 🗼 [Pledgy](https://pledgy.app) - Platform for content delivery for Patreon Content creators
+- ⚔️ [Valannia](https://market.valannia.com) - Web3 Game marketplace and gaming functionilities (UI)
+- 🌐 [My Website](https://jonathanfernandezfm.com/) – Personal portfolio and contact hub
+- 🔧 See more on my [GitHub Profile](https://github.com/jonathanfernandezfm)
 
-![Jonathan Github Stats](https://github-readme-stats.vercel.app/api?username=jonathanfernandezfm&show_icons=true&hide_border=true)
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Jonathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathanfernandezfm&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanfernandezfm&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🗓 Let's Connect!
+
+If you’ve got a cool idea, need a dev for a project, or just want to chat tech and games—drop me a message
+
+📩 **Email me:** [contact@jonathanfernandezfm.com](mailto:contact@jonathanfernandezfm.com)  
+🔗 Or reach out via [LinkedIn](https://www.linkedin.com/in/jonathanfernandezfm)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=007CF0&center=true&vCenter=true&width=435&lines=Thanks+for+stopping+by!+👋;Happy+coding!+💻" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e76a8&height=120&section=footer"/>
+</div>
