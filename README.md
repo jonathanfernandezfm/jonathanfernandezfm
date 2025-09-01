@@ -59,7 +59,7 @@ Currently based in Kuopio, Finland 🇫🇮, working at [Matrix42](https://www.m
 
 If you’ve got a cool idea, need a dev for a project, or just want to chat tech and games—drop me a message
 
-📩 **Email me:** [contact@jonathanfernandezfm.com](mailto:contact@jonathanfernandezfm.com)  
+📩 **Email me:** [jonathanfernandezfm@gmail.com](mailto:jonathanfernandezfm@gmail.com)  
 🔗 Or reach out via [LinkedIn](https://www.linkedin.com/in/jonathanfernandezfm)
 
 ---
