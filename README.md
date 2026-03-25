@@ -35,7 +35,7 @@ Currently based in Kuopio, Finland 🇫🇮, working at [Matrix42](https://www.m
 
 ### 📌 Featured Projects
 
-- 🎵 [Bedroom Radio](bedroom-radio.vercel.app/) – A digital radio streaming project
+- 🎵 [Bedroom Radio](https://bedroom-radio.vercel.app/) – A digital radio streaming project
 - 🖌 [AmaiTakahashi Portfolio](https://amaitakahashi.com/) – Custom portfolio design & dev
 - 🗼 [Pledgy](https://pledgy.app) - Platform for content delivery for Patreon Content creators
 - ⚔️ [Valannia](https://market.valannia.com) - Web3 Game marketplace and gaming functionilities (UI)
