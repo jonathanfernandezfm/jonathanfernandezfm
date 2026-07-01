@@ -15,13 +15,13 @@
 
 ### 👨‍💻 About Me
 
-Hey there! I'm **Jonathan Fernández Mertanen**, a passionate **Full-Stack Developer** and **Software Engineer** originally from Spain 🇪🇸.  
+Hey there! I'm **Jonathan Fernández Mertanen**, a passionate **Software Engineer** originally from Spain 🇪🇸.  
 Currently based in Kuopio, Finland 🇫🇮, working at [Matrix42](https://www.matrix42.com/).
 
 - 🛠 **Stack**: Java, Angular, NextJS, React, Node.js, and whatever new UI framework just came out yesterday 😉
 - 💡 Currently exploring: **UX/UI**, **Blockchain**, and **AI**
 - 🌐 Freelancing and open to fun & impactful side projects
-- 🕹 Love for gaming, motorsports, and building **Discord bots**
+- 🕹 Love for gaming, motorsports, and building apps.
 
 ---
 
