@@ -35,6 +35,8 @@ Currently based in Kuopio, Finland 🇫🇮, working at [Matrix42](https://www.m
 
 ### 📌 Featured Projects
 
+- ⭐ [S3Dock](https://s3dock.com) - A S3 compatible drive to manage your files easily. Preview them, statistics, indexed search, copy and moving around different buckets and S3 instances, and much more!
+
 - 🎵 [Bedroom Radio](https://bedroom-radio.vercel.app/) – A digital radio streaming project
 - 🖌 [AmaiTakahashi Portfolio](https://amaitakahashi.com/) – Custom portfolio design & dev
 - 🗼 [Pledgy](https://pledgy.app) - Platform for content delivery for Patreon Content creators
